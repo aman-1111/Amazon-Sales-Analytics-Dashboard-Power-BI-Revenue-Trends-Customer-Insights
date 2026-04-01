@@ -1,5 +1,7 @@
 # Amazon Laptop Sales Dashboard (Power BI)
 
+![Dashboard](screenshots/Dashboard.png)
+
 ## Overview
 This project features an interactive Power BI dashboard built to analyze Amazon laptop sales data. The dashboard focuses on sales performance, pricing trends, customer ratings, and operating system distribution to derive meaningful business insights.
 
